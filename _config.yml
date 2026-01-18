@@ -1,0 +1,15 @@
+# 站点基础配置（可选，用于主题渲染）
+title: 刘原青的个人网站
+email: 25213050283@m.fudan.edu.cn
+description: 你的站点描述
+author: LiuYuanQing
+lang: zh-CN # 站点语言，支持中文
+
+# 核心：指定 GitHub Pages 支持的 Jekyll 主题
+theme: minima
+
+# 可选：minima 主题的额外配置（不同主题配置项不同，参考对应主题文档）
+minima:
+  skin: dark # 主题皮肤，minima 支持 light/dark 等
+  social_links:
+    - { platform: github, user_url: "https://github.com/Cyanllllll" }
